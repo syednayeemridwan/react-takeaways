@@ -9,3 +9,4 @@ Check File Index:
 6. Composing Components
 7. Inserting New Component in Tree
 8. From class to Function
+9. Component Lifecycle
