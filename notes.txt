@@ -1,12 +1,14 @@
 Starting course of Mosh Hamedani (201 lectures)
 Check File Index:
 
-1. Getting Started
-2. JavaScript Recap
-3. Debugging
-4. New Project
-5. Some Know-Hows
-6. Composing Components
-7. Inserting New Component in Tree
-8. From class to Function
-9. Component Lifecycle
+001. Getting Started
+002. JavaScript Recap
+003. React Component
+004. Debugging 
+005. New Project
+006. Some Know-Hows
+007. Composing Components
+008. Inserting New Component in Tree
+009. From class to Function
+010. Component Lifecycle
+011. Manipulating Icons
