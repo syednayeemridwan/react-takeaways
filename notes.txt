@@ -12,3 +12,4 @@ Check File Index:
 009. From class to Function
 010. Component Lifecycle
 011. Manipulating Icons
+012. Type Checking
