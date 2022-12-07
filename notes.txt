@@ -12,4 +12,7 @@ Check File Index:
 009. From class to Function
 010. Component Lifecycle
 011. Manipulating Icons
-012. Type Checking
+012. Pagination
+013. Type Checking
+014. Dynamic Styling with re-rendering
+015. Filtering
