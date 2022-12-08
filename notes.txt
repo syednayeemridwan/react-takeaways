@@ -16,3 +16,5 @@ Check File Index:
 013. Type Checking
 014. Dynamic Styling with re-rendering
 015. Filtering
+016. Sorting
+017. Chaining Event Calls
